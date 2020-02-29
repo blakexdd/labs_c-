@@ -1,0 +1,5 @@
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/MyClass/MyClass/bin/Debug/MyClass.exe
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/MyClass/MyClass/bin/Debug/MyClass.pdb
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/MyClass/MyClass/obj/Debug/MyClass.csprojAssemblyReference.cache
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/MyClass/MyClass/obj/Debug/MyClass.exe
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/MyClass/MyClass/obj/Debug/MyClass.pdb

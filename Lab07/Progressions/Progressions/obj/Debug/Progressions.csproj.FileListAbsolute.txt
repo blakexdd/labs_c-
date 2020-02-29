@@ -1,0 +1,5 @@
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/Progressions/Progressions/bin/Debug/Progressions.exe
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/Progressions/Progressions/bin/Debug/Progressions.pdb
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/Progressions/Progressions/obj/Debug/Progressions.csprojAssemblyReference.cache
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/Progressions/Progressions/obj/Debug/Progressions.exe
+/Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab07/Progressions/Progressions/obj/Debug/Progressions.pdb
