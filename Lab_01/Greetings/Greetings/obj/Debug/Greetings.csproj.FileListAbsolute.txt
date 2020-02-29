@@ -1,0 +1,6 @@
+Z:\Labs_c#\Lab_01\Greetings\Greetings\bin\Debug\Greetings.exe
+Z:\Labs_c#\Lab_01\Greetings\Greetings\bin\Debug\Greetings.pdb
+Z:\Labs_c#\Lab_01\Greetings\Greetings\obj\Debug\Greetings.csprojAssemblyReference.cache
+Z:\Labs_c#\Lab_01\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+Z:\Labs_c#\Lab_01\Greetings\Greetings\obj\Debug\Greetings.exe
+Z:\Labs_c#\Lab_01\Greetings\Greetings\obj\Debug\Greetings.pdb

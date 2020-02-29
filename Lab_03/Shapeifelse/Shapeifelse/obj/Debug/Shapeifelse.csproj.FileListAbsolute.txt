@@ -1,0 +1,6 @@
+Z:\Labs_c#\Lab_03\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe
+Z:\Labs_c#\Lab_03\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.pdb
+Z:\Labs_c#\Lab_03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.csprojAssemblyReference.cache
+Z:\Labs_c#\Lab_03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.csproj.CoreCompileInputs.cache
+Z:\Labs_c#\Lab_03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.exe
+Z:\Labs_c#\Lab_03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.pdb

@@ -1,0 +1,6 @@
+Z:\Labs_c#\Lab_03\Loop\Loop\bin\Debug\Loop.exe
+Z:\Labs_c#\Lab_03\Loop\Loop\bin\Debug\Loop.pdb
+Z:\Labs_c#\Lab_03\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+Z:\Labs_c#\Lab_03\Loop\Loop\obj\Debug\Loop.exe
+Z:\Labs_c#\Lab_03\Loop\Loop\obj\Debug\Loop.pdb
+Z:\Labs_c#\Lab_03\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache

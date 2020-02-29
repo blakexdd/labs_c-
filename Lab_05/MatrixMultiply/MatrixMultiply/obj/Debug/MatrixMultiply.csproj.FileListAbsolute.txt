@@ -1,0 +1,6 @@
+Z:\Labs_c#\Lab_05\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+Z:\Labs_c#\Lab_05\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+Z:\Labs_c#\Lab_05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+Z:\Labs_c#\Lab_05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+Z:\Labs_c#\Lab_05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.pdb
+Z:\Labs_c#\Lab_05\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csprojAssemblyReference.cache

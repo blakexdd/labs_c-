@@ -1,0 +1,6 @@
+Z:\Labs_c#\Lab_02\StructType\StructType\bin\Debug\StructType.exe
+Z:\Labs_c#\Lab_02\StructType\StructType\bin\Debug\StructType.pdb
+Z:\Labs_c#\Lab_02\StructType\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+Z:\Labs_c#\Lab_02\StructType\StructType\obj\Debug\StructType.exe
+Z:\Labs_c#\Lab_02\StructType\StructType\obj\Debug\StructType.pdb
+Z:\Labs_c#\Lab_02\StructType\StructType\obj\Debug\StructType.csprojAssemblyReference.cache
