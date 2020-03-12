@@ -7,18 +7,6 @@ namespace MyClass
         protected long invNumber; // inventory number
         protected bool taken; // state of the item
 
-        /* default item constructor */
-        public Item()
-        {
-            this.taken = true;
-        }
-
-        /* item constructor */
-        public Item(long invNumber, bool taken)
-        {
-            this.invNumber = invNumber;
-            this.taken = taken;
-        }
 
         /* checking avaliability of item method */
         public bool IsAvailable()
@@ -39,6 +27,19 @@ namespace MyClass
         private void Take()
         {
             taken = false;
+        }
+
+        /* default item constructor */
+        public Item()
+        {
+            this.taken = true;
+        }
+
+        /* item constructor */
+        public Item(long invNumber, bool taken)
+        {
+            this.invNumber = invNumber;
+            this.taken = taken;
         }
 
         /* returning item method */

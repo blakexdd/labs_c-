@@ -53,18 +53,26 @@ namespace Divider
                 Console.WriteLine("An exception was thrown: {0}", e.Message);
             }
 
-            /* asking user to enter perimeter of the triangle */
-            Console.WriteLine("Enter perimeter of the triangle");
+            try
+            {
+                /* asking user to enter perimeter of the triangle */
+                Console.WriteLine("Enter perimeter of the triangle");
 
-            /* reading perimeter of the triangle and assigning half of it to p var */
-            double p = Double.Parse(Console.ReadLine()) / 2;
+                /* reading perimeter of the triangle and assigning half of it to p var */
+                double p = Double.Parse(Console.ReadLine()) / 2;
 
-            /* evaluating square of the triangle */
-            double S = Math.Sqrt(p * Math.Pow((p - 2 / 3 * p), 3));
+                /* evaluating square of the triangle */
+                double S = Math.Sqrt(p * Math.Pow((p - 2 / 3 * p), 3));
 
-            /* printing results out */
-            Console.WriteLine("Сторона    Площадь");
-            Console.WriteLine("{0:0.00}       {1:0.00}", 2 * p / 3, S);
+                /* printing results out */
+                Console.WriteLine("Сторона    Площадь");
+                Console.WriteLine("{0:0.00}       {1:0.00}", 2 * p / 3, S);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine($"Negative value under square root: {e.Message}");
+            }
+
 
             /* to keep console awake */
             Console.ReadLine();

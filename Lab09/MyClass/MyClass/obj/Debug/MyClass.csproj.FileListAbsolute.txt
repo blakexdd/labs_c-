@@ -3,3 +3,10 @@
 /Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab08/MyClass/MyClass/obj/Debug/MyClass.csprojAssemblyReference.cache
 /Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab08/MyClass/MyClass/obj/Debug/MyClass.exe
 /Users/vladimir/Desktop/Labs & Pr/Labs_c#/Lab08/MyClass/MyClass/obj/Debug/MyClass.pdb
+C:\Users\Gololobov\Documents\GitHub\labs_c-\Lab09\MyClass\MyClass\bin\Debug\MyClass.exe.config
+C:\Users\Gololobov\Documents\GitHub\labs_c-\Lab09\MyClass\MyClass\bin\Debug\MyClass.exe
+C:\Users\Gololobov\Documents\GitHub\labs_c-\Lab09\MyClass\MyClass\bin\Debug\MyClass.pdb
+C:\Users\Gololobov\Documents\GitHub\labs_c-\Lab09\MyClass\MyClass\obj\Debug\MyClass.csprojAssemblyReference.cache
+C:\Users\Gololobov\Documents\GitHub\labs_c-\Lab09\MyClass\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Gololobov\Documents\GitHub\labs_c-\Lab09\MyClass\MyClass\obj\Debug\MyClass.exe
+C:\Users\Gololobov\Documents\GitHub\labs_c-\Lab09\MyClass\MyClass\obj\Debug\MyClass.pdb

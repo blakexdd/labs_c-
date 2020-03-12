@@ -1,13 +1,14 @@
 ﻿using System;
+using MyClass;
 
-namespace MyClass
+namespace MyClassTest
 {
     class MainClass
     {
         public static void Main(string[] args)
         {
             /* setting language */
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            //Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             /* initializing item class variavle */
             //Item item1 = new Item();
@@ -80,6 +81,9 @@ namespace MyClass
             {
                 x.Print();
             }
+
+            /* to keep console awake */
+            Console.Read();
         }
     }
 }

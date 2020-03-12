@@ -62,7 +62,8 @@ namespace MyClass
             /* initializing half of perimeter */
             double p = Perimeter() / 2;
 
-            return Math.Sqrt(p * (p - this.First_side) * (p - this.Second_side) * (p - this.Third_side));
+            return Math.Sqrt(p * (p - this.First_side)
+                * (p - this.Second_side) * (p - this.Third_side));
         }
 
         /* method figuring out if triangle exists */

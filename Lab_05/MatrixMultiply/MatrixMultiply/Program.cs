@@ -123,7 +123,8 @@ namespace MatrixMultiply
             int p = 1;
 
             /* counting product of numbers between max and min variable */
-            for (int i = Math.Min(Argmin(a), Argmax(a)) + 1; i < Math.Max(Argmax(a), Argmin(a)); i++)
+            for (int i = Math.Min(Argmin(a), Argmax(a)) + 1;
+                i < Math.Max(Argmax(a), Argmin(a)); i++)
                 p *= a[i];
 
             /* returning p*/
